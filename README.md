@@ -1,4 +1,4 @@
-## IEEE International Conference on Multimedia and Expo
+# IEEE International Conference on Multimedia and Expo
 ## ICME 2021 (https://2021.ieeeicme.org/) 
 ## Special Session on Knowledge-Driven Multi-modal Deep Analysis for Multimedia
 
@@ -16,16 +16,18 @@ This special session aims at bringing together researchers and professionals fro
 > * Methodology and architectures to improve model explainability with knowledge
 > * Multi-modal deep analysis for innovative multimedia applications, such as person reidentification, social network analysis, cross-modal retrieval, recommendation systems and so on.
 
-### Important Dates
+## Important Dates
 
 > Submission of papers:
 > * Regular Paper submission (including Special Sessions) : November 29, 2020
 > * Submission of papers to workshops and other tracks : March 13, 2021
 > * Industry/Application track paper submission : March 22, 2021
 
-### Organizing Team
+## Organizing Team
 
-
+## Conference and Journal Papers
+All papers presented at ICME 2021 will be included in IEEE Xplore. All papers submitted to this special session will go through the same review process as the regular papers submitted to the main conference to ensure that the contributions are of high quality. If a special session has more than 5 papers being accepted, some of the papers will be moved to the regular paper sessions of the conference.
+The IEEE Transactions on Multimedia is partnering with IEEE ICME. Extended versions of the top-ranked ICME 2021 papers will be invited for submission and potential publication in the IEEE Transactions on Multimedia and IEEE Open Journal of Circuits and Systems. We invite authors to submit high-quality contributions aiming at taking part in this call and to have the opportunity to publish an extended ICME paper in this prestigious journal. After the due review process, if your paper is highly ranked, the Technical Program Committee Chairs will get in touch with you regarding the next steps.
 
 
 
