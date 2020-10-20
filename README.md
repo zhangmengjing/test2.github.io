@@ -17,6 +17,7 @@ This special session aims at bringing together researchers and professionals fro
 > * Multi-modal deep analysis for innovative multimedia applications, such as person reidentification, social network analysis, cross-modal retrieval, recommendation systems and so on.
 
 ### Important Dates
+
 > Submission of papers:
 > * Regular Paper submission (including Special Sessions) : November 29, 2020
 > * Submission of papers to workshops and other tracks : March 13, 2021
