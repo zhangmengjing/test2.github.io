@@ -31,10 +31,10 @@ This special session aims at bringing together researchers and professionals fro
 | 单元格  | 单元格 |
 | 单元格  | 单元格 |
 
+| ![avatar](/picture/1.png) |
+|  ----  |
 |  Prof. Lin Li, Wuhan University of Technology, China |
-|  ----  | ----  |
-| Short Bio  | ![avatar](/picture/1.png) Lin Li is currently a full professor at |
-| 单元格  | 单元格 |
+| 单元格 |
 
 
 
