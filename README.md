@@ -8,7 +8,7 @@ With the aim of provision of high-quality information, services and items to use
 
 This special session aims at bringing together researchers and professionals from academia and industry from around the world for showcasing, discussing, and reviewing the whole spectrum of technological opportunities, challenges, solutions, and emerging applications in knoweldge-driven multi-modal deep analysis for multimedia,. We especially encourage original work based on interdisciplinary research, such as computer science and social science, where quantitative evidence is available demonstrating the mutual advantage of such an approach. 
 
-#### Topics of particular interest include, but are not limited to:
+> #### Topics of particular interest include, but are not limited to:
 > * Multi-modal representation learning with knowledge
 > * Multi-modal data fusion with knowledge 
 > * Knowledge representation for multi-modal data  
