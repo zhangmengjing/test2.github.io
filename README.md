@@ -25,9 +25,11 @@ This special session aims at bringing together researchers and professionals fro
 
 ## Organizing Team
 
-| ![avatar](/picture/1.png) |
-|  ----  |
-|  Prof. Lin Li, Wuhan University of Technology, China |
+| ![avatar](/picture/1.png) |![avatar](/picture/1.png) |
+|  ----  | ----  |
+|  Prof. Lin Li, Wuhan University of Technology, China |Prof. Lin Li, Wuhan University of Technology, China |
+
+
 | ![avatar](/picture/2.png) |
 |  ----  |
 |  Prof. Lin Li, Wuhan University of Technology, China |
