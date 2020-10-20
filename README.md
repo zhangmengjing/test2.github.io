@@ -37,35 +37,3 @@ This special session aims at bringing together researchers and professionals fro
 All papers presented at ICME 2021 will be included in IEEE Xplore. All papers submitted to this special session will go through the same review process as the regular papers submitted to the main conference to ensure that the contributions are of high quality. If a special session has more than 5 papers being accepted, some of the papers will be moved to the regular paper sessions of the conference.
 The IEEE Transactions on Multimedia is partnering with IEEE ICME. Extended versions of the top-ranked ICME 2021 papers will be invited for submission and potential publication in the IEEE Transactions on Multimedia and IEEE Open Journal of Circuits and Systems. We invite authors to submit high-quality contributions aiming at taking part in this call and to have the opportunity to publish an extended ICME paper in this prestigious journal. After the due review process, if your paper is highly ranked, the Technical Program Committee Chairs will get in touch with you regarding the next steps.
 
-
-
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zhangmengjing/test2.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
