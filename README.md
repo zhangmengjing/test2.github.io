@@ -1,6 +1,7 @@
 # IEEE International Conference on Multimedia and Expo
-## ICME 2021 (https://2021.ieeeicme.org/) 
-## Special Session on Knowledge-Driven Multi-modal Deep Analysis for Multimedia
+# ICME 2021 (https://2021.ieeeicme.org/) 
+# Special Session on 
+## Knowledge-Driven Multi-modal Deep Analysis for Multimedia
 
 ## Abstract:
 
