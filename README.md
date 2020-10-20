@@ -2,7 +2,7 @@
 ## ICME 2021 (https://2021.ieeeicme.org/) 
 ## Special Session on Knowledge-Driven Multi-modal Deep Analysis for Multimedia
 
-### Abstract:
+## Abstract:
 
 With the aim of provision of high-quality information, services and items to users, advanced Internet and multimedia services have experienced an exponential growth and advanced rapidly over the past decades. A huge amount of user-generated and service provider-generated multimedia data become available. These data are heterogeneous and multi-modal in nature, imposing great challenges for processing and analyzing them. Multi-modal data consist of a mixture of various types of data from different modalities such as texts, images, videos, audios etc. Data-driven correlational representation and knowledge-guided learning are the main scientific problems for multimedia analysis. 
 
@@ -24,6 +24,14 @@ This special session aims at bringing together researchers and professionals fro
 > * Industry/Application track paper submission : March 22, 2021
 
 ## Organizing Team
+
+| Prof. Lin Li, Wuhan University of Technology, China |
+| Short Bio | ![avatar](/picture/1.png) Lin Li is currently a full professor at  |
+| 短文本 | 中等文本 | 稍微长一点的文本 |
+| 稍微长一点的文本 | 短文本 | 中等文本 |
+
+![avatar](/picture/1.png)
+
 
 ## Conference and Journal Papers
 All papers presented at ICME 2021 will be included in IEEE Xplore. All papers submitted to this special session will go through the same review process as the regular papers submitted to the main conference to ensure that the contributions are of high quality. If a special session has more than 5 papers being accepted, some of the papers will be moved to the regular paper sessions of the conference.
