@@ -25,6 +25,12 @@ This special session aims at bringing together researchers and professionals fro
 
 ## Organizing Team
 
+
+|  表头   | 表头  |
+|  ----  | ----  |
+| 单元格  | 单元格 |
+| 单元格  | 单元格 |
+
 |  Prof. Lin Li, Wuhan University of Technology, China |
 |  ----  | ----  |
 | Short Bio  | ![avatar](/picture/1.png) Lin Li is currently a full professor at |
