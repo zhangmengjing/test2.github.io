@@ -28,20 +28,9 @@ This special session aims at bringing together researchers and professionals fro
 | ![avatar](/picture/1.png) |![avatar](/picture/2.png) |![avatar](/picture/3.png) |
 |  ----  | ----  | ----  |
 |  Prof. Lin Li, Wuhan University of Technology, China |Prof. Lin Li, Wuhan University of Technology, China |Prof. Lin Li, Wuhan University of Technology, China |
-
-
-| ![avatar](/picture/2.png) |
-|  ----  |
-|  Prof. Lin Li, Wuhan University of Technology, China |
-| ![avatar](/picture/3.png) |
-|  ----  |
-|  Prof. Lin Li, Wuhan University of Technology, China |
-| ![avatar](/picture/4.png) |
-|  ----  |
-|  Prof. Lin Li, Wuhan University of Technology, China |
-| ![avatar](/picture/5.png) |
-|  ----  |
-|  Prof. Lin Li, Wuhan University of Technology, China |
+| ![avatar](/picture/4.png) |![avatar](/picture/5.png) |
+|  ----  |----  |
+|  Prof. Lin Li, Wuhan University of Technology, China |Prof. Lin Li, Wuhan University of Technology, China |
 
 
 
