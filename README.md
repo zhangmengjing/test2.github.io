@@ -29,15 +29,11 @@ This special session aims at bringing together researchers and professionals fro
 ## Organizing Team
 
 | ![1](https://user-images.githubusercontent.com/30610957/96667691-1eeb0500-138c-11eb-8ac7-e84a0024129d.png) |![2](https://user-images.githubusercontent.com/30610957/96667719-2c07f400-138c-11eb-8a74-dfd49aa2bd30.png) |![3](https://user-images.githubusercontent.com/30610957/96667723-30cca800-138c-11eb-91b8-074de9d09e8f.png) |
-| :-: | :-: | :-:
+| :-: | :-: | :-: |
 |  Prof. Lin Li, Wuhan University of Technology, China |Prof. Xi Shao, Nanjing University of Posts and Telecommunications, China |Assistant Prof. Zheng Wang, The University of Tokyo, Japan |
-| ![4](https://user-images.githubusercontent.com/30610957/96667731-33c79880-138c-11eb-8566-0bc92d8dde25.png) |<img width="89" alt="5" src="https://user-images.githubusercontent.com/30610957/96667786-4d68e000-138c-11eb-982c-2b8fce274a72.png"> |
+| ![4](https://user-images.githubusercontent.com/30610957/96667731-33c79880-138c-11eb-8566-0bc92d8dde25.png) | <img width="89" alt="5" src="https://user-images.githubusercontent.com/30610957/96667786-4d68e000-138c-11eb-982c-2b8fce274a72.png"> |
 | Assistant Prof. Rajiv Ratn Shah, IIIT-Delhi, India |Prof. Yang Wang, Hefei University of Technology, China |
-![1](https://user-images.githubusercontent.com/30610957/96667691-1eeb0500-138c-11eb-8ac7-e84a0024129d.png)
-![2](https://user-images.githubusercontent.com/30610957/96667719-2c07f400-138c-11eb-8a74-dfd49aa2bd30.png)
-![3](https://user-images.githubusercontent.com/30610957/96667723-30cca800-138c-11eb-91b8-074de9d09e8f.png)
-![4](https://user-images.githubusercontent.com/30610957/96667731-33c79880-138c-11eb-8566-0bc92d8dde25.png)
-<img width="89" alt="5" src="https://user-images.githubusercontent.com/30610957/96667786-4d68e000-138c-11eb-982c-2b8fce274a72.png">
+
 
 
 ## Conference and Journal Papers
