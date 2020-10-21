@@ -28,10 +28,10 @@ This special session aims at bringing together researchers and professionals fro
 
 ## Organizing Team
 
-| ![avatar](/picture/1.png) |![avatar](/picture/2.png) |![avatar](/picture/3.png) |
+| ![avatar](/picture1/1.png) |![avatar](/picture1/2.png) |![avatar](/picture1/3.png) |
 | :-: | :-: | :-:
 |  Prof. Lin Li, Wuhan University of Technology, China |Prof. Xi Shao, Nanjing University of Posts and Telecommunications, China |Assistant Prof. Zheng Wang, The University of Tokyo, Japan |
-| ![avatar](/picture/4.png) |![avatar](/picture/5.png) |
+| ![avatar](/picture1/4.png) |![avatar](/picture1/5.png) |
 | Assistant Prof. Rajiv Ratn Shah, IIIT-Delhi, India |Prof. Yang Wang, Hefei University of Technology, China |
 
 
